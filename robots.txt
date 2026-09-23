@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mohdnoorshawal.github.io/xshawalxugc/sitemap.xml
+Sitemap: https://xshawalx.github.io/ugc/sitemap.xml
